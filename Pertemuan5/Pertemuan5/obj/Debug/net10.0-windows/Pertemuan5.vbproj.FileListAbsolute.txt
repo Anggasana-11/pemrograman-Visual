@@ -1,0 +1,17 @@
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\obj\Debug\net10.0-windows\Pertemuan5.FrmArray.resources
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\obj\Debug\net10.0-windows\Pertemuan5.vbproj.GenerateResource.cache
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\obj\Debug\net10.0-windows\Pertemuan5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\obj\Debug\net10.0-windows\Pertemuan5.AssemblyInfoInputs.cache
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\obj\Debug\net10.0-windows\Pertemuan5.AssemblyInfo.vb
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\obj\Debug\net10.0-windows\Pertemuan5.vbproj.CoreCompileInputs.cache
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\obj\Debug\net10.0-windows\Pertemuan5.sourcelink.json
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\bin\Debug\net10.0-windows\Pertemuan5.exe
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\bin\Debug\net10.0-windows\Pertemuan5.deps.json
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\bin\Debug\net10.0-windows\Pertemuan5.runtimeconfig.json
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\bin\Debug\net10.0-windows\Pertemuan5.dll
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\bin\Debug\net10.0-windows\Pertemuan5.pdb
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\obj\Debug\net10.0-windows\Pertemuan5.dll
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\obj\Debug\net10.0-windows\refint\Pertemuan5.dll
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\obj\Debug\net10.0-windows\Pertemuan5.pdb
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\obj\Debug\net10.0-windows\Pertemuan5.genruntimeconfig.cache
+D:\Pemograman Visual\Pertemuan5\Pertemuan5\obj\Debug\net10.0-windows\ref\Pertemuan5.dll
